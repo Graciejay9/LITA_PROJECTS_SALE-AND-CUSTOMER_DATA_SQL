@@ -2,9 +2,11 @@
 ## Store Sales Analysis
 
 ### Project Overview
+---
 This project analyszes customers' data, sales of products at a retail Store in order to ascertain customers pattern of purchasing Items, to identify which product has the highest selling rate and to determine opportunities for growth and things needed to be done
 
 ### Table of Contents
+---
 - Project Overview
 - Table of Contents
 - Data Source
@@ -17,6 +19,7 @@ This project analyszes customers' data, sales of products at a retail Store in o
 - Insights and Recommendations
 
 ### Data Source
+---
 The data used for this analysis is sourced from the store sales records, with details on:
 - Product categories
 - Sales volume
@@ -24,6 +27,7 @@ The data used for this analysis is sourced from the store sales records, with de
 - Customer segments
 
 ### Data Set
+---
 The dataset contains:
 - Orderid(a unique identifier)
 - Product (product name)
@@ -34,6 +38,7 @@ The dataset contains:
 - Total revenue (Total revenue per order)
 
 ### Tools Used
+---
 This project was completed using:
 - Microsoft Excel for data cleaning and preliminary analysis.
 - SQL Structured Query Language for data processing and querying.
@@ -41,6 +46,7 @@ This project was completed using:
 - Github for building portfolio
 
 ### Methodology
+---
 1.  Data Cleaning:
 - Removed duplicates and irrelevant columns.
 - Handled missing values to ensure accurate analysis.
@@ -50,13 +56,17 @@ This project was completed using:
 - Analyzed seasonal and monthly sales trends.
 
 ### Data Analysis and Findings
+---
 #### Excel Analysis
 Excel files containing the followng;
 - Data filtering and sorting which involves cleaning up the data set and removing duplicates.
 
 ![Screenshot 2024-11-15 153104](https://github.com/user-attachments/assets/7a572ea3-076a-468e-999a-9ac182a0e357)
 
+![Screenshot 2024-11-15 163839](https://github.com/user-attachments/assets/abe2563a-fbe0-49f1-819f-1d7c2aa42ae0)
 
+Above is the dataset for sales data and customer subscription services, and to be able to analyze properly, we source for the duration in which each customers subscribed; hence our subscription duration column and also the Revenue from quantity and Unit price.
 
+- Pivot Table for regional and products analysis
 
 
