@@ -69,4 +69,9 @@ Above is the dataset for sales data and customer subscription services, and to b
 
 - Pivot Table for regional and products analysis
 
+![Screenshot 2024-11-15 164939](https://github.com/user-attachments/assets/87c7e3e2-a859-4d7c-998a-5707a9070527)
+
+
+
+![Screenshot 2024-11-15 171140](https://github.com/user-attachments/assets/51bcf15f-be57-4ef0-8751-cd1aa8af2b28)
 
