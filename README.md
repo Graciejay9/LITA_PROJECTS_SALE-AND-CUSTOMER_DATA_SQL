@@ -75,3 +75,18 @@ Above is the dataset for sales data and customer subscription services, and to b
 
 ![Screenshot 2024-11-15 171140](https://github.com/user-attachments/assets/51bcf15f-be57-4ef0-8751-cd1aa8af2b28)
 
+#### SQL analysis
+The SqL files contains the Queries for data extraction and filtering on excel. it aslo contains the Aggregate funtions for revenue and quantity calculation. It also help to know customers preference in each product.
+
+##### SQL queries
+Here are some of the SQL queries that is used to provide answers to the questions
+1.  Total Sales by Products
+ ```sql
+  -------retrieve total sales from each category-------------
+SELECT PRODUCT,SUM(revenue) as 'Total sales'
+FROM[dbo].[SALES DATA LITA PROJECT]
+group by Product
+
+
+
+2.  
