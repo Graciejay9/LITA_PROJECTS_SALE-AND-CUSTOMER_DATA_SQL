@@ -2,9 +2,11 @@
 ## Store Sales Analysis
 
 ### Project Overview
+```
 This project analyszes customers' data, sales of products at a retail Store in order to ascertain customers pattern of purchasing Items, to identify which product has the highest selling rate and to determine opportunities for growth and things needed to be done
 
 ### Table of Contents
+```
 - Project Overview
 - Table of Contents
 - Data Source
@@ -17,6 +19,7 @@ This project analyszes customers' data, sales of products at a retail Store in o
 - Insights and Recommendations
 
 ### Data Source
+```
 The data used for this analysis is sourced from the store sales records, with details on:
 - Product categories
 - Sales volume
@@ -24,6 +27,7 @@ The data used for this analysis is sourced from the store sales records, with de
 - Customer segments
 
 ### Data Set
+```
 The dataset contains:
 - Orderid(a unique identifier)
 - Product (product name)
@@ -34,12 +38,15 @@ The dataset contains:
 - Total revenue (Total revenue per order)
 
 ### Tools Used
+```
 This project was completed using:
 - Microsoft Excel for data cleaning and preliminary analysis.
 - SQL Structured Query Language for data processing and querying.
 - Power BI for data visualization and dashboard creation.
+- Github for building portfolio
 
 ### Methodology
+```
 1.  Data Cleaning:
 - Removed duplicates and irrelevant columns.
 - Handled missing values to ensure accurate analysis.
@@ -48,11 +55,13 @@ This project was completed using:
 - Identified top-performing product categories.
 - Analyzed seasonal and monthly sales trends.
 
-### Key Analysis and Findings
+### Data Analysis and Findings
+```
 #### Excel Analysis
 Excel files containing the followng;
+- Data filtering and sorting which involves cleaning up the data set and removing duplicates.
 
-Data filtering and sorting which involves cleaning up the data set and removing duplicates.
+
 
 
 
